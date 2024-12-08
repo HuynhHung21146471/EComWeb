@@ -11,4 +11,5 @@ Thay đổi username, password bằng của bạn để kết nối với MySql
 
 --------------------------------------------------------------------
 Phần MailSender đổi thành mail của bạn, tạo pass cho app rồi thế vô password
+
 Thay đổi mail tương ứng trong CommonUtil
